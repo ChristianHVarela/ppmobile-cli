@@ -2,18 +2,18 @@ import { StyleSheet } from "react-native";
 
 export const stylesType = StyleSheet.create({
     container: {
-        flex: 1,
-        justifyContent: "flex-start",
         backgroundColor: 'white',
-        margin: 20,
-        width: 350,
-        height: 130,
+        width: 340,
+        height: 35,
+        borderRadius: 7,
         flexDirection: 'row',
+        margin: 5,
+        alignItems: 'center',
     },
     title: {
         alignItems: 'flex-start',
-        marginLeft: 12,
-        marginTop: 5
+        marginLeft: 70,
+        color: 'black'
     },
     buttonView: {
         padding: 10,
@@ -22,6 +22,8 @@ export const stylesType = StyleSheet.create({
         marginLeft: 30
     },
     formContainer: {
-        width: 270
+        width: 270,
+        alignItems: 'center',
+        justifyContent: "center"
     }
 })

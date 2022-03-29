@@ -19,7 +19,7 @@ export const stylesType = StyleSheet.create({
         borderRadius: 8,
         marginTop: 20,
         width: 110,
-        marginLeft: 530
+        marginLeft: 200
     },
     label: {
         fontSize: 20
