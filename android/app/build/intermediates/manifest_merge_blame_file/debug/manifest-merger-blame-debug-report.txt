@@ -9,70 +9,70 @@
 9        android:targetSdkVersion="30" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->D:\pp-mobile\ppmobile-cli\android\app\src\debug\AndroidManifest.xml:5:5-77
-11-->D:\pp-mobile\ppmobile-cli\android\app\src\debug\AndroidManifest.xml:5:22-75
+11-->C:\ppmobile\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->C:\ppmobile\android\app\src\debug\AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:4:5-67
-12-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:4:22-64
+12-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.BLUETOOTH" />
-13-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
-13-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
+13-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-68
+13-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-65
 14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-14-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-74
-14-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-71
+14-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-74
+14-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-71
 15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-15-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-81
-15-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-78
+15-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-81
+15-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-78
 16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-16-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-79
-16-->[:react-native-zebra-bluetooth-printer] D:\pp-mobile\ppmobile-cli\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-76
+16-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:5-79
+16-->[:react-native-zebra-bluetooth-printer] C:\ppmobile\node_modules\react-native-zebra-bluetooth-printer\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:22-76
 17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-17-->[com.facebook.flipper:flipper:0.99.0] C:\Users\chris\.gradle\caches\transforms-3\df7b208c45426f45016d16c0c3a6a059\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
-17-->[com.facebook.flipper:flipper:0.99.0] C:\Users\chris\.gradle\caches\transforms-3\df7b208c45426f45016d16c0c3a6a059\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
+17-->[com.facebook.flipper:flipper:0.99.0] C:\Users\Faee10\.gradle\caches\transforms-3\df7b208c45426f45016d16c0c3a6a059\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.99.0] C:\Users\Faee10\.gradle\caches\transforms-3\df7b208c45426f45016d16c0c3a6a059\transformed\jetified-flipper-0.99.0\AndroidManifest.xml:16:22-73
 18
 19    <application
-19-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:6:5-24:19
+19-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:6:5-24:19
 20        android:name="com.ppmobile.MainApplication"
-20-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:7:7-38
+20-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:7:7-38
 21        android:allowBackup="false"
-21-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:11:7-34
+21-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:11:7-34
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.6.0] C:\Users\chris\.gradle\caches\transforms-3\9f18c6b50baa776d71894ad120630276\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.6.0] C:\Users\Faee10\.gradle\caches\transforms-3\9f18c6b50baa776d71894ad120630276\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:icon="@mipmap/ic_launcher"
-24-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:9:7-41
+24-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:9:7-41
 25        android:label="@string/app_name"
-25-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:8:7-39
+25-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:8:7-39
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:10:7-52
+26-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:10:7-52
 27        android:theme="@style/AppTheme"
-27-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:12:7-38
+27-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:12:7-38
 28        android:usesCleartextTraffic="true" >
-28-->D:\pp-mobile\ppmobile-cli\android\app\src\debug\AndroidManifest.xml:8:9-44
+28-->C:\ppmobile\android\app\src\debug\AndroidManifest.xml:8:9-44
 29        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-29-->D:\pp-mobile\ppmobile-cli\android\app\src\debug\AndroidManifest.xml:11:9-86
-29-->D:\pp-mobile\ppmobile-cli\android\app\src\debug\AndroidManifest.xml:11:19-83
+29-->C:\ppmobile\android\app\src\debug\AndroidManifest.xml:11:9-86
+29-->C:\ppmobile\android\app\src\debug\AndroidManifest.xml:11:19-83
 30        <activity
-30-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:13:7-23:18
+30-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:13:7-23:18
 31            android:name="com.ppmobile.MainActivity"
-31-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:14:9-37
+31-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:14:9-37
 32            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-32-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:16:9-86
+32-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:16:9-86
 33            android:label="@string/app_name"
-33-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:15:9-41
+33-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:15:9-41
 34            android:launchMode="singleTask"
-34-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:17:9-40
+34-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:17:9-40
 35            android:windowSoftInputMode="adjustResize" >
-35-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:18:9-51
+35-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:18:9-51
 36            <intent-filter>
-36-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:19:9-22:25
+36-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:19:9-22:25
 37                <action android:name="android.intent.action.MAIN" />
-37-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:20:13-65
-37-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:20:21-62
+37-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:20:13-65
+37-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:20:21-62
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:21:13-73
-39-->D:\pp-mobile\ppmobile-cli\android\app\src\main\AndroidManifest.xml:21:23-70
+39-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:21:13-73
+39-->C:\ppmobile\android\app\src\main\AndroidManifest.xml:21:23-70
 40            </intent-filter>
 41        </activity>
 42    </application>
